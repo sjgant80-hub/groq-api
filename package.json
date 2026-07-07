@@ -1,0 +1,15 @@
+{
+  "name": "@ai-native-solutions/groq-api",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "HTTP proxy for Groq · sovereign estate wrapper · docs: https://console.groq.com/docs/quickstart",
+  "main": "./server.mjs",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sjgant80-hub/groq-api.git"
+  }
+}
