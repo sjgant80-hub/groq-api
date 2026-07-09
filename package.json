@@ -1,0 +1,18 @@
+{
+  "name": "@ai-native-solutions/groq-api",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "HTTP proxy for Groq",
+  "main": "./server.mjs",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "dependencies": {
+    "@ai-native-solutions/groq-sdk": "^1.0.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sjgant80-hub/groq-api.git"
+  }
+}
